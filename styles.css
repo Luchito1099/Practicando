@@ -1,0 +1,53 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #030616;
+    width: 100%;
+    font-family: "inter", sans-serif;
+    background-color: #F8FAFC;
+}
+section.faq-section {
+
+    display: grid;
+
+}
+div.faq-header {
+    width: 100%;
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
+    background-color: #ffffff;
+    max-width: 100%;
+    text-align: center;
+}
+
+div.faq-container {
+    max-width: 600px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    justify-self: center ;
+
+
+}
+
+
+h1 {
+    
+    font-weight: 600;
+    font-size: 2.25rem;
+}
+h2 {
+
+    font-weight: 600;
+    font-size: 1.5rem;
+    
+}
+p {
+
+    font-weight: 400;
+    font-size: 1rem;   
+}
+ol, ul {
+    margin-left: 1rem;
+    padding-left: 0;
+}
